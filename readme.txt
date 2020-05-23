@@ -17,4 +17,3 @@ Initial Release of Fork
 * Disable Post Formats if Post Kinds are enabled
 * Remove Genericons and Replace with Genericons Neue which removes social icons
 * Do not show word count if 0
-
